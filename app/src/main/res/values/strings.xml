@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">kotlin1.hw2</string>
+    <string name="et_url">Enter image url</string>
+    <string name="btn_random">Show random image</string>
+    <string name="img_descr">fromGlide</string>
+    <string name="btn_submit">Submit</string>
+    <string name="et_input">Please Enter image url!!!</string>
+    <string name="et_submitted">image url is submitted</string>
+    <string name="wrong_format">Wrong format</string>
+</resources>
